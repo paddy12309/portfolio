@@ -1,0 +1,30 @@
+h1
+{ 
+ color: red;
+ 
+ 
+ text-decoration: underline;
+ 
+ }
+ 
+ h2{ color: hotpink;
+ }
+ h3{ color: blue;
+ }
+ 
+ strong{ color: #00ffff; }
+ 
+ li{ color: #008080; }
+ 
+ body{ color: lime;
+background-color: black;}
+
+#lol {
+
+	colour:	 green;
+}
+.priority
+{
+	color: red;
+	text-decoration: underline;
+}
